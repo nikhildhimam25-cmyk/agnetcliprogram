@@ -1,0 +1,23 @@
+You: Hello, I just reached out.
+
+Bloom: Hello! Welcome to Bloom Aesthetics Clinic. I'm Bloom, your customer support assistant. It's lovely to have you reach out to us. May I ask, what brings you to our clinic today?
+
+You: heelo
+
+Bloom: It seems like your message got a little mixed up. Could you please rephrase that? What would you like to know about our clinic or services?
+
+You: consulatcy price
+
+Bloom: Our consultation is completely free. You can book a free initial consultation with our aesthetic practitioner to discuss your options and determine the best course of treatment for you.
+
+You: Please generate the conversation summary now.
+
+Bloom: ---
+SESSION SUMMARY
+Customer Intent: Consultation price inquiry
+Details Collected: None
+SOP Gaps: None
+Escalated: No
+Recommended Next Action: Book a free consultation via our website or WhatsApp
+---
+
